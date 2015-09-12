@@ -1,0 +1,6 @@
+D:\Projects\06 Conditional Statements\09 IntDoubleString\bin\Debug\09 IntDoubleString.exe.config
+D:\Projects\06 Conditional Statements\09 IntDoubleString\bin\Debug\09 IntDoubleString.exe
+D:\Projects\06 Conditional Statements\09 IntDoubleString\bin\Debug\09 IntDoubleString.pdb
+D:\Projects\06 Conditional Statements\09 IntDoubleString\obj\Debug\09 IntDoubleString.exe
+D:\Projects\06 Conditional Statements\09 IntDoubleString\obj\Debug\09 IntDoubleString.pdb
+D:\Projects\06 Conditional Statements\09 IntDoubleString\obj\Debug\09 IntDoubleString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects\06 Conditional Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+D:\Projects\06 Conditional Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe
+D:\Projects\06 Conditional Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.pdb
+D:\Projects\06 Conditional Statements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+D:\Projects\06 Conditional Statements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Projects\06 Conditional Statements\02BonusScore\bin\Debug\02BonusScore.exe.config
+D:\Projects\06 Conditional Statements\02BonusScore\bin\Debug\02BonusScore.exe
+D:\Projects\06 Conditional Statements\02BonusScore\bin\Debug\02BonusScore.pdb
+D:\Projects\06 Conditional Statements\02BonusScore\obj\Debug\02BonusScore.exe
+D:\Projects\06 Conditional Statements\02BonusScore\obj\Debug\02BonusScore.pdb

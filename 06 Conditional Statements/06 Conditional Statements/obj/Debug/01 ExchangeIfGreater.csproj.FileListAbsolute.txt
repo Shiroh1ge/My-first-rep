@@ -1,0 +1,6 @@
+D:\Projects\06 Conditional Statements\06 Conditional Statements\obj\Debug\01 ExchangeIfGreater.csprojResolveAssemblyReference.cache
+D:\Projects\06 Conditional Statements\06 Conditional Statements\bin\Debug\06 Conditional Statements.exe.config
+D:\Projects\06 Conditional Statements\06 Conditional Statements\bin\Debug\06 Conditional Statements.exe
+D:\Projects\06 Conditional Statements\06 Conditional Statements\bin\Debug\06 Conditional Statements.pdb
+D:\Projects\06 Conditional Statements\06 Conditional Statements\obj\Debug\06 Conditional Statements.exe
+D:\Projects\06 Conditional Statements\06 Conditional Statements\obj\Debug\06 Conditional Statements.pdb

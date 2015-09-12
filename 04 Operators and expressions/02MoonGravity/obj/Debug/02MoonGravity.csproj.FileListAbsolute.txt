@@ -1,0 +1,5 @@
+D:\Projects\04 Operators and expressions\02MoonGravity\bin\Debug\02MoonGravity.exe.config
+D:\Projects\04 Operators and expressions\02MoonGravity\bin\Debug\02MoonGravity.exe
+D:\Projects\04 Operators and expressions\02MoonGravity\bin\Debug\02MoonGravity.pdb
+D:\Projects\04 Operators and expressions\02MoonGravity\obj\Debug\02MoonGravity.exe
+D:\Projects\04 Operators and expressions\02MoonGravity\obj\Debug\02MoonGravity.pdb

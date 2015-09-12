@@ -1,0 +1,5 @@
+D:\Projects\04 Operators and expressions\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Projects\04 Operators and expressions\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Projects\04 Operators and expressions\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Projects\04 Operators and expressions\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Projects\04 Operators and expressions\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

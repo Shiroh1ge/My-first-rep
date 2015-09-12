@@ -1,0 +1,5 @@
+D:\Projects\03 Console Input  Output\03 Console Input  Output\bin\Debug\03 Console Input  Output.exe.config
+D:\Projects\03 Console Input  Output\03 Console Input  Output\bin\Debug\03 Console Input  Output.exe
+D:\Projects\03 Console Input  Output\03 Console Input  Output\bin\Debug\03 Console Input  Output.pdb
+D:\Projects\03 Console Input  Output\03 Console Input  Output\obj\Debug\03 Console Input  Output.exe
+D:\Projects\03 Console Input  Output\03 Console Input  Output\obj\Debug\03 Console Input  Output.pdb

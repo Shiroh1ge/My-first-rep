@@ -1,0 +1,11 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\15Exam\bin\Debug\15Exam.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\15Exam\bin\Debug\15Exam.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\15Exam\bin\Debug\15Exam.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\15Exam\obj\Debug\15Exam.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\15Exam\obj\Debug\15Exam.pdb
+D:\Projects\ConsoleApplication3\15Exam\bin\Debug\15Exam.exe.config
+D:\Projects\ConsoleApplication3\15Exam\obj\Debug\15Exam.exe
+D:\Projects\ConsoleApplication3\15Exam\obj\Debug\15Exam.pdb
+D:\Projects\02 Primitive Data types\15Exam\bin\Debug\15Exam.exe.config
+D:\Projects\02 Primitive Data types\15Exam\obj\Debug\15Exam.exe
+D:\Projects\02 Primitive Data types\15Exam\obj\Debug\15Exam.pdb

@@ -1,0 +1,5 @@
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb

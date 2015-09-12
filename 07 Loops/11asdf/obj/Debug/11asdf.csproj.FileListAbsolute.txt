@@ -1,0 +1,5 @@
+D:\Projects\07 Loops\11asdf\bin\Debug\11asdf.exe.config
+D:\Projects\07 Loops\11asdf\bin\Debug\11asdf.exe
+D:\Projects\07 Loops\11asdf\bin\Debug\11asdf.pdb
+D:\Projects\07 Loops\11asdf\obj\Debug\11asdf.exe
+D:\Projects\07 Loops\11asdf\obj\Debug\11asdf.pdb

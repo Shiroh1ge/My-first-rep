@@ -1,0 +1,5 @@
+D:\Projects\04 Operators and expressions\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.exe.config
+D:\Projects\04 Operators and expressions\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.exe
+D:\Projects\04 Operators and expressions\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.pdb
+D:\Projects\04 Operators and expressions\06Four-DigitNumber\obj\Debug\06Four-DigitNumber.exe
+D:\Projects\04 Operators and expressions\06Four-DigitNumber\obj\Debug\06Four-DigitNumber.pdb

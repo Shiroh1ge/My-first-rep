@@ -1,0 +1,6 @@
+D:\Projects\07 Loops\04 MinMaxSumAvg\bin\Debug\04 MinMaxSumAvg.exe.config
+D:\Projects\07 Loops\04 MinMaxSumAvg\obj\Debug\04 MinMaxSumAvg.exe
+D:\Projects\07 Loops\04 MinMaxSumAvg\obj\Debug\04 MinMaxSumAvg.pdb
+D:\Projects\07 Loops\04 MinMaxSumAvg\bin\Debug\04 MinMaxSumAvg.exe
+D:\Projects\07 Loops\04 MinMaxSumAvg\bin\Debug\04 MinMaxSumAvg.pdb
+D:\Projects\07 Loops\04 MinMaxSumAvg\obj\Debug\03 MinMaxSumAvg.csprojResolveAssemblyReference.cache

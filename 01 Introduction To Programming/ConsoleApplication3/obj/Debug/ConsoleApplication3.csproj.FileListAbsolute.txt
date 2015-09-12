@@ -1,0 +1,2 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config

@@ -1,0 +1,5 @@
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\03Variable in Hex\bin\Debug\03Variable in Hex.exe.config
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\03Variable in Hex\bin\Debug\03Variable in Hex.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\03Variable in Hex\bin\Debug\03Variable in Hex.pdb
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\03Variable in Hex\obj\Debug\03Variable in Hex.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\03Variable in Hex\obj\Debug\03Variable in Hex.pdb

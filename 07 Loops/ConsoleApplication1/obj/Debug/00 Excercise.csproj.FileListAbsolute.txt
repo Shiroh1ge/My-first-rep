@@ -1,0 +1,12 @@
+D:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\00 Excercise.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\07 Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\07 Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\07 Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\07 Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\07 Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\07 Loops\ConsoleApplication1\obj\Debug\00 Excercise.csprojResolveAssemblyReference.cache

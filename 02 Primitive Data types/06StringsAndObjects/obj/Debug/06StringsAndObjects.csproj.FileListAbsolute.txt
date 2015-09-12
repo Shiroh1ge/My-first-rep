@@ -1,0 +1,6 @@
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\06StringsAndObjects\obj\Debug\06StringsAndObjects.csprojResolveAssemblyReference.cache

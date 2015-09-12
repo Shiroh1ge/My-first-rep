@@ -1,0 +1,5 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

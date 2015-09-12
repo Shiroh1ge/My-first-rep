@@ -1,0 +1,5 @@
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+c:\users\haker\documents\visual studio 2013\Projects\ConsoleApplication3\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

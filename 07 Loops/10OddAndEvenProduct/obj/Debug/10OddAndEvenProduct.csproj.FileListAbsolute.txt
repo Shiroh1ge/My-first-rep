@@ -1,0 +1,6 @@
+D:\Projects\07 Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+D:\Projects\07 Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+D:\Projects\07 Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+D:\Projects\07 Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Projects\07 Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+D:\Projects\07 Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

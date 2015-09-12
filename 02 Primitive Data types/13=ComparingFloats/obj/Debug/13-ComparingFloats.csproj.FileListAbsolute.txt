@@ -1,0 +1,3 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\13=ComparingFloats\bin\Debug\13=ComparingFloats.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\13=ComparingFloats\obj\Debug\13=ComparingFloats.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\13=ComparingFloats\obj\Debug\13=ComparingFloats.pdb

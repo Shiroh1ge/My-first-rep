@@ -1,0 +1,12 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\bin\Debug\10PrintSequence.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\bin\Debug\10PrintSequence.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\bin\Debug\10PrintSequence.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\obj\Debug\10PrintSequence.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\obj\Debug\10PrintSequence.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\10PrintSequence\obj\Debug\10PrintSequence.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\10PrintSequence\bin\Debug\10PrintSequence.exe.config
+D:\Projects\ConsoleApplication1\10PrintSequence\obj\Debug\10PrintSequence.exe
+D:\Projects\ConsoleApplication1\10PrintSequence\obj\Debug\10PrintSequence.pdb
+D:\Projects\01 Introduction To Programming\10PrintSequence\bin\Debug\10PrintSequence.exe.config
+D:\Projects\01 Introduction To Programming\10PrintSequence\obj\Debug\10PrintSequence.exe
+D:\Projects\01 Introduction To Programming\10PrintSequence\obj\Debug\10PrintSequence.pdb

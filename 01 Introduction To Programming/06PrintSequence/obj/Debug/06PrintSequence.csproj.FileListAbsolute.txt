@@ -1,0 +1,6 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\bin\Debug\06PrintSequence.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\bin\Debug\06PrintSequence.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\bin\Debug\06PrintSequence.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\obj\Debug\06PrintSequence.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\obj\Debug\06PrintSequence.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\06PrintSequence\obj\Debug\06PrintSequence.csprojResolveAssemblyReference.cache

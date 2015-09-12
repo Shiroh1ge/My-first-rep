@@ -1,0 +1,6 @@
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\bin\Debug\08 CSharp Advanced.exe.config
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\bin\Debug\08 CSharp Advanced.exe
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\bin\Debug\08 CSharp Advanced.pdb
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\obj\Debug\01DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\obj\Debug\08 CSharp Advanced.exe
+D:\Projects\08 CSharp Advanced\08 CSharp Advanced\obj\Debug\08 CSharp Advanced.pdb

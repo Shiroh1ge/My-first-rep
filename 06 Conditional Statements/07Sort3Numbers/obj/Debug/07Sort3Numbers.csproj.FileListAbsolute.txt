@@ -1,0 +1,6 @@
+D:\Projects\06 Conditional Statements\07Sort3Numbers\bin\Debug\07Sort3Numbers.exe.config
+D:\Projects\06 Conditional Statements\07Sort3Numbers\bin\Debug\07Sort3Numbers.exe
+D:\Projects\06 Conditional Statements\07Sort3Numbers\bin\Debug\07Sort3Numbers.pdb
+D:\Projects\06 Conditional Statements\07Sort3Numbers\obj\Debug\07Sort3Numbers.exe
+D:\Projects\06 Conditional Statements\07Sort3Numbers\obj\Debug\07Sort3Numbers.pdb
+D:\Projects\06 Conditional Statements\07Sort3Numbers\obj\Debug\07Sort3Numbers.csprojResolveAssemblyReference.cache

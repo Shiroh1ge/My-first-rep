@@ -1,0 +1,5 @@
+D:\Projects\03 Console Input  Output\04 Number Comparer\bin\Debug\04 Number Comparer.exe.config
+D:\Projects\03 Console Input  Output\04 Number Comparer\bin\Debug\04 Number Comparer.exe
+D:\Projects\03 Console Input  Output\04 Number Comparer\bin\Debug\04 Number Comparer.pdb
+D:\Projects\03 Console Input  Output\04 Number Comparer\obj\Debug\04 Number Comparer.exe
+D:\Projects\03 Console Input  Output\04 Number Comparer\obj\Debug\04 Number Comparer.pdb

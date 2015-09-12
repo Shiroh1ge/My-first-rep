@@ -1,0 +1,5 @@
+D:\Projects\06 Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\06 Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\06 Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\06 Conditional Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\06 Conditional Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

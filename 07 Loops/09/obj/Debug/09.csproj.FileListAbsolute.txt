@@ -1,0 +1,6 @@
+D:\Projects\07 Loops\09\bin\Debug\09.exe.config
+D:\Projects\07 Loops\09\bin\Debug\09.exe
+D:\Projects\07 Loops\09\bin\Debug\09.pdb
+D:\Projects\07 Loops\09\obj\Debug\09.exe
+D:\Projects\07 Loops\09\obj\Debug\09.pdb
+D:\Projects\07 Loops\09\obj\Debug\09.csprojResolveAssemblyReference.cache

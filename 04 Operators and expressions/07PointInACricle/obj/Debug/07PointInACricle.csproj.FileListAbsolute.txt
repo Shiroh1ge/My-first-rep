@@ -1,0 +1,6 @@
+D:\Projects\04 Operators and expressions\07PointInACricle\bin\Debug\07PointInACricle.exe.config
+D:\Projects\04 Operators and expressions\07PointInACricle\bin\Debug\07PointInACricle.exe
+D:\Projects\04 Operators and expressions\07PointInACricle\bin\Debug\07PointInACricle.pdb
+D:\Projects\04 Operators and expressions\07PointInACricle\obj\Debug\07PointInACricle.csprojResolveAssemblyReference.cache
+D:\Projects\04 Operators and expressions\07PointInACricle\obj\Debug\07PointInACricle.exe
+D:\Projects\04 Operators and expressions\07PointInACricle\obj\Debug\07PointInACricle.pdb

@@ -1,0 +1,6 @@
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\bin\Debug\05 Formatting Numbers.exe.config
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\bin\Debug\05 Formatting Numbers.exe
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\bin\Debug\05 Formatting Numbers.pdb
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\obj\Debug\05 Formatting Numbers.exe
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\obj\Debug\05 Formatting Numbers.pdb
+D:\Projects\03 Console Input  Output\05 Formatting Numbers\obj\Debug\05 Formatting Numbers.csprojResolveAssemblyReference.cache

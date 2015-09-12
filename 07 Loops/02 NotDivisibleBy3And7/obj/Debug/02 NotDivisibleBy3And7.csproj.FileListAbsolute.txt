@@ -1,0 +1,6 @@
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\bin\Debug\02 NotDivisibleBy3And7.exe.config
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\bin\Debug\02 NotDivisibleBy3And7.exe
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\bin\Debug\02 NotDivisibleBy3And7.pdb
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\obj\Debug\02 NotDivisibleBy3And7.exe
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\obj\Debug\02 NotDivisibleBy3And7.pdb
+D:\Projects\07 Loops\02 NotDivisibleBy3And7\obj\Debug\02 NotDivisibleBy3And7.csprojResolveAssemblyReference.cache

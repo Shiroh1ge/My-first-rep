@@ -1,0 +1,5 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02 Print your name\bin\Debug\02 Print your name.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02 Print your name\bin\Debug\02 Print your name.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02 Print your name\bin\Debug\02 Print your name.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02 Print your name\obj\Debug\02 Print your name.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02 Print your name\obj\Debug\02 Print your name.pdb

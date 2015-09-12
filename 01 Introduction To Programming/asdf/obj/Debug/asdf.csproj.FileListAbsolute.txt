@@ -1,0 +1,6 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\bin\Debug\asdf.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\bin\Debug\asdf.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\bin\Debug\asdf.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\obj\Debug\asdf.csprojResolveAssemblyReference.cache
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\obj\Debug\asdf.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\asdf\obj\Debug\asdf.pdb

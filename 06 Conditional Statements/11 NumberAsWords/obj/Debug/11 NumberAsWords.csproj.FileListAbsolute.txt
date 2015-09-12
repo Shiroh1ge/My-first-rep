@@ -1,0 +1,2 @@
+D:\Projects\06 Conditional Statements\11 NumberAsWords\bin\Debug\11 NumberAsWords.exe.config
+D:\Projects\06 Conditional Statements\11 NumberAsWords\obj\Debug\11 NumberAsWords.csprojResolveAssemblyReference.cache

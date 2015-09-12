@@ -1,0 +1,6 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\obj\Debug\07 Fix Code.csprojResolveAssemblyReference.cache
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

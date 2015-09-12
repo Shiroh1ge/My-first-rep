@@ -1,0 +1,6 @@
+D:\Projects\06 Conditional Statements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+D:\Projects\06 Conditional Statements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+D:\Projects\06 Conditional Statements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+D:\Projects\06 Conditional Statements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+D:\Projects\06 Conditional Statements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb
+D:\Projects\06 Conditional Statements\08DigitAsWord\obj\Debug\08DigitAsWord.csprojResolveAssemblyReference.cache

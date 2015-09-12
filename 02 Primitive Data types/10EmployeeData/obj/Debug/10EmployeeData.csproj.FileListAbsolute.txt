@@ -1,0 +1,6 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\bin\Debug\10EmployeeData.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\bin\Debug\10EmployeeData.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\obj\Debug\10EmployeeData.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\obj\Debug\10EmployeeData.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\10EmployeeData\obj\Debug\10EmployeeData.csprojResolveAssemblyReference.cache

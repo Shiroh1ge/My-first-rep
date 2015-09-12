@@ -1,0 +1,5 @@
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+C:\Users\haker\Documents\Visual Studio 2013\Projects\ConsoleApplication3\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
